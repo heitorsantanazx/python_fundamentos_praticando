@@ -1,4 +1,4 @@
-# Python Fundamentals Practice
+# Python Fundamentos e Práticas
 
 Repositório com exercícios práticos que estão sendo desenvolvidos durante meus estudos em Python.
 

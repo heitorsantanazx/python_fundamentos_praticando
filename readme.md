@@ -1,13 +1,13 @@
 # Python Fundamentos e Práticas
 
-Repositório com exercícios práticos que estão sendo desenvolvidos durante meus estudos em Python.
+Repositório com exercícios práticos que estão sendo desenvolvidos durante meus estudos em Python pelo Jupyter Notebook.
 
-## Conteúdos abordados
+## Conteúdos abordados até o momento
 
+- Lógica de Programação
 - Estruturas condicionais
 - Laços de repetição
 - Listas e dicionários
-- Lógica de programação
 
 ## Estrutura
 
